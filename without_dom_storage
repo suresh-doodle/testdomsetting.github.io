@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website without DOM Storage</title>
+</head>
+<body>
+    <h1>Welcome to the Website without DOM Storage!</h1>
+    <p>Since this website doesn't use DOM Storage, it won't remember any data across sessions.</p>
+</body>
+</html>
